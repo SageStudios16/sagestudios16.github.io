@@ -1,6 +1,8 @@
-unityads.com, [5991203], DIRECT, c10275ccf3a1d953
+unityads.com, 5991203, DIRECT, c10275ccf3a1d953
 
-ironsource.com, [637555], DIRECT, 51e1808603673c68
+ironsource.com, 637555, DIRECT, 51e1808603673c68
+
+google.com, pub-3677125149398835, DIRECT, f08c47fec0942fa0
 
 copper6.com, 766114, RESELLER
 lijit.com, 546566, RESELLER, fafdf38b16bf6b2b
